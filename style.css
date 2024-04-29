@@ -14,4 +14,15 @@ ul {
    li{
     margin-bottom: 10px;
   }
- 
+
+  .name{
+    float: right;
+  }
+
+  .image{
+    float: left;
+  }
+  
+  .content{
+    clear: both;
+  }
